@@ -9,6 +9,8 @@ def second_supply_for_fourth_of_july(holiday_hash)
   #   },
   #   :summer => {
   #     :fourth_of_july => ["Fireworks", "BBQ"]
+   second_supply_for_fourth_of_july = "holiday_supplies"
+   
   #   },
   #   :fall => {
   #     :thanksgiving => ["Turkey"]
